@@ -4,9 +4,9 @@
 # Edit next line, providing your own name.
 title: Shane Gimenez | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://shaira25.github.io"
+url: "https://shaira25.github.io/shaira25"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/shaira25"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
